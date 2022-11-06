@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Jojo-Rabbit/solana-airDrop/issues"
   },
-  "homepage": "https://github.com/Jojo-Rabbit/solana-airDrop#readme"
+  "homepage": "https://github.com/Jojo-Rabbit/solana-airDrop#readme",
+  "dependencies": {
+    "@solana/web3.js": "^1.66.2"
+  }
 }
