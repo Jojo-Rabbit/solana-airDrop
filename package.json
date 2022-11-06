@@ -1,0 +1,19 @@
+{
+  "name": "solana-airdrop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sample.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jojo-Rabbit/solana-airDrop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jojo-Rabbit/solana-airDrop/issues"
+  },
+  "homepage": "https://github.com/Jojo-Rabbit/solana-airDrop#readme"
+}
